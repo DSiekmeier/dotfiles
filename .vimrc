@@ -1,6 +1,8 @@
 " Colorscheme
 colorscheme desert
 syntax enable
+set colorcolumn=80,120
+highlight ColorColumn ctermbg=lightgrey guibg=lightgrey
 
 " Spaces and Tabs
 set tabstop=4
